@@ -1,0 +1,6 @@
+interface:
+  display_name: "国赛论文交付工具箱"
+  short_description: "按Word或LaTeX模板撰写、配图、核验并打包国赛论文"
+  default_prompt: "使用 $cumcm-paper-kit 按选定模板完成国赛论文，并生成匹配版式的图表与提交审计报告。"
+policy:
+  allow_implicit_invocation: true
